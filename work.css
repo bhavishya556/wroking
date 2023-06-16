@@ -1,0 +1,24 @@
+*{
+    margin: 0;padding: 0;
+}
+.container{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #4d5b61;
+    flex-direction: column;
+}
+h2{
+    color: white;
+    font-size: 2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 4%;
+    border: 4px solid white;
+}
